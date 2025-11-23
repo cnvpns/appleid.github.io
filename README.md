@@ -108,11 +108,11 @@ OK，当以上准备工作都完成后，你就可以正式开始注册海外苹
 
 当你第一次进入美区商店时，系统会要求你填写美国账单地址。你只需要填写一组格式正确的美国地址即可，并不要求填写真实的居住地址。下面是一个标准的美国地址示例，你可以直接参考填写：
 
-Street：1600 Amphitheatre Parkway
-City：Mountain View
-State：CA
-ZIP：94043
-Phone：6502530000
+* Street：1600 Amphitheatre Parkway
+* City：Mountain View
+* State：CA
+* ZIP：94043
+* Phone：6502530000
 
 如果你不知道如何填写美国地址，你也可以使用美国地址生成工具（ www.meiguodizhi.com ）生成一个规范的地址，操作非常简单直接。
 
