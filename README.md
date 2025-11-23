@@ -14,6 +14,8 @@
 
 重要提示：如果你不想花时间自己注册海外苹果Apple ID账号，也可以通过“账号星球”这个专业平台直接购买一个现成的美区Apple ID账号。你只需使用支付宝支付一定费用，然后就可以直接获取一个美区苹果AppleID账号，非常的简单省事儿，而且安全有保障！
 
+![海外苹果Apple ID注册教程-通过账号星球平台购买苹果ID帐号](https://raw.githubusercontent.com/cnvpns/appleid.github.io/refs/heads/main/image/%E8%8B%B9%E6%9E%9C-ID-%E6%B3%A8%E5%86%8C-%E8%B4%AD%E4%B9%B0-1.png)
+
 </blockquote>
 
 OK，废话不多说，接下来就正式开始本文教程。建议你先收藏这篇文章，然后按照步骤一步一步操作，就能顺利完成美区Apple ID账号的注册。
