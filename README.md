@@ -1,4 +1,4 @@
-# 2025年海外苹果Apple ID注册教程：如何注册苹果Apple ID账号？（含美区苹果ID购买教程） 
+# <p align="center">2025年海外苹果Apple ID注册教程：如何注册苹果Apple ID账号？（含美区苹果ID购买教程） </p>
 
 <p align="center">最近更新：2025年11月23日</p>
 
